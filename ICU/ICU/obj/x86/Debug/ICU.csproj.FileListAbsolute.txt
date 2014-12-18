@@ -1,0 +1,18 @@
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\bin\Debug\ICU.exe
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\bin\Debug\ICU.pdb
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\ICU.Properties.Resources.resources
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\ICU.exe
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\ICU.pdb
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\[Projektai]\ICU\ICU\ICU\obj\x86\Debug\ICU.ICU.resources
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\ICU.exe
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\ICU.pdb
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\bin\Debug\ICU.exe
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\bin\Debug\ICU.pdb
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\ICU.ICU.resources
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\ICU.Properties.Resources.resources
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C#\Pabaigti darbai\ICU\ICU\ICU\obj\x86\Debug\GenerateResource.write.1.tlog
